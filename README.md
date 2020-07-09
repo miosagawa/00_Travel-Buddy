@@ -1,6 +1,8 @@
 Folder update content:
 Update date：July 06, 2020
-Update content：
+
+URL:https://miosagawa.github.io/00_Travel-Buddy/index.html
+Github:https://github.com/miosagawa/00_Travel-Buddy
 
 1.Project 1（Created according to the following conditions）
 
